@@ -1,0 +1,26 @@
+body{
+    margin: 20px;
+
+}
+.image{
+    width: 150px;
+}
+.main{
+    display: flex;
+    padding: 20px;
+    border-bottom:5px #d8cefe solid;
+    width: 410px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 0 auto;
+    background: #ddebf8;
+    
+}
+.dotted{
+    /* border: 2px blue dotted; */
+}
+.card{
+    background-color: #d8cefe;
+    padding: 20px;
+    text-align: center;
+}
